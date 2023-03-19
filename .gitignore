@@ -1,0 +1,6 @@
+.RDataTemp*
+.Rproj.*
+.RD*
+.R*
+*.RDS
+*.rds
